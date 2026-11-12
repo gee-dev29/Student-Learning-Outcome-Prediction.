@@ -1,0 +1,9 @@
+model,actual,predicted,count
+Logistic Regression,Needs support,Needs support,20
+Logistic Regression,Needs support,Pass,9
+Logistic Regression,Pass,Needs support,8
+Logistic Regression,Pass,Pass,43
+Decision Tree,Needs support,Needs support,19
+Decision Tree,Needs support,Pass,10
+Decision Tree,Pass,Needs support,15
+Decision Tree,Pass,Pass,36
